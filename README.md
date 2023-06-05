@@ -444,6 +444,18 @@ body {
 ### Home Page:
 ![Screenshot 2023-05-25 143200](https://github.com/arun1111j/productcompanywebsite/assets/128461833/7420be03-4441-4b75-8c51-f4e73b6adcf2)
 
+### Product Page:
+
+![Screenshot 2023-06-05 192046](https://github.com/arun1111j/productcompanywebsite/assets/128461833/5881162c-7663-4867-bde9-482846cfc7ec)
+
+### People Page
+
+![Screenshot 2023-06-05 192117](https://github.com/arun1111j/productcompanywebsite/assets/128461833/e5f0f6c2-034f-422f-83f9-7afea5d33354)
+
+![Screenshot 2023-06-05 192134](https://github.com/arun1111j/productcompanywebsite/assets/128461833/765d4b54-fe1e-436c-a6d7-1d7b9f762b49)
+
+### Contact Page:
+![Screenshot 2023-06-05 192202](https://github.com/arun1111j/productcompanywebsite/assets/128461833/9e5149b9-f636-4ab7-bd97-4d78c51dcd3e)
 
 
 ## Result:
